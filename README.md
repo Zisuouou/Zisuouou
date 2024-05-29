@@ -5,7 +5,7 @@
 
 <br>
 
-- A Data Analyst
+- A Data Analyst & Machine Learning Engineer
 - Majored in Industrial & Management Engineering
 - Specialized in Statistics & R & Python 
 - Machine Learning, Deep Learning technology Usable
